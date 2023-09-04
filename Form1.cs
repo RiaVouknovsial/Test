@@ -19,7 +19,7 @@ namespace WindowsFormsApp1_Test
         public Form1()
         {
             InitializeComponent();
-             answer = new int[15];
+            answer = new int[15];
         }
 
         private void Form1_Load(object sender, EventArgs e)
